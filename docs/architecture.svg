@@ -1,0 +1,92 @@
+<svg width="960" height="560" viewBox="0 0 960 560" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
+  <rect x="0" y="0" width="960" height="560" fill="#F7F9FF"/>
+  <text x="40" y="48" font-size="16" font-weight="700" fill="#0F172A" letter-spacing="2">ARCHITECTURE</text>
+  <text x="40" y="70" font-size="13" fill="#475569">Agents and workflow hub inside your AI coding tool, grounded by a decision store</text>
+
+  <!-- AI coding tool container -->
+  <rect x="36" y="96" width="636" height="412" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+  <text x="52" y="122" font-size="13" font-weight="700" fill="#0F172A">AI Coding Tool — Claude Code · Codex</text>
+
+  <!-- pipeline pills -->
+  <rect x="56" y="140" width="96" height="34" rx="17" fill="#2563EB"/>
+  <text x="104" y="162" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">Clarify</text>
+  <path d="M152 157 h22" stroke="#94A3B8" stroke-width="2"/>
+  <path d="M174 157 l-7 -4 v8 z" fill="#94A3B8"/>
+
+  <rect x="182" y="140" width="74" height="34" rx="17" fill="#7C3AED"/>
+  <text x="219" y="162" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">Plan</text>
+  <path d="M256 157 h22" stroke="#94A3B8" stroke-width="2"/>
+  <path d="M278 157 l-7 -4 v8 z" fill="#94A3B8"/>
+
+  <rect x="286" y="140" width="80" height="34" rx="17" fill="#2563EB"/>
+  <text x="326" y="162" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">Build</text>
+  <path d="M366 157 h20" stroke="#94A3B8" stroke-width="2"/>
+  <path d="M386 157 l-7 -4 v8 z" fill="#94A3B8"/>
+
+  <rect x="394" y="140" width="112" height="34" rx="17" fill="#F59E0B"/>
+  <text x="450" y="162" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">Verify</text>
+  <path d="M506 157 h20" stroke="#94A3B8" stroke-width="2"/>
+  <path d="M526 157 l-7 -4 v8 z" fill="#94A3B8"/>
+
+  <rect x="534" y="140" width="100" height="34" rx="17" fill="#1E40AF"/>
+  <text x="584" y="162" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">Deliver</text>
+
+  <!-- agent cards -->
+  <rect x="56" y="206" width="182" height="66" rx="10" fill="#EFF6FF" stroke="#2563EB" stroke-width="1.5"/>
+  <text x="70" y="232" font-size="12" font-weight="700" fill="#0F172A">Product Agent</text>
+  <text x="70" y="250" font-size="10" fill="#475569">briefs · requirements</text>
+
+  <rect x="256" y="206" width="182" height="66" rx="10" fill="#EFF6FF" stroke="#2563EB" stroke-width="1.5"/>
+  <text x="270" y="232" font-size="12" font-weight="700" fill="#0F172A">Architect Agent</text>
+  <text x="270" y="250" font-size="10" fill="#475569">specs · solutions · ADR</text>
+
+  <rect x="456" y="206" width="182" height="66" rx="10" fill="#EFF6FF" stroke="#2563EB" stroke-width="1.5"/>
+  <text x="470" y="232" font-size="12" font-weight="700" fill="#0F172A">UX Agent</text>
+  <text x="470" y="250" font-size="10" fill="#475569">flows · screens</text>
+
+  <rect x="56" y="296" width="182" height="66" rx="10" fill="#F5F3FF" stroke="#7C3AED" stroke-width="1.5"/>
+  <text x="70" y="322" font-size="12" font-weight="700" fill="#0F172A">Dev Agent</text>
+  <text x="70" y="340" font-size="10" fill="#475569">implements stories</text>
+
+  <rect x="256" y="296" width="182" height="66" rx="10" fill="#F5F3FF" stroke="#7C3AED" stroke-width="1.5"/>
+  <text x="270" y="322" font-size="12" font-weight="700" fill="#0F172A">Test Agent</text>
+  <text x="270" y="340" font-size="10" fill="#475569">reviews · gates</text>
+
+  <rect x="456" y="296" width="182" height="66" rx="10" fill="#F5F3FF" stroke="#7C3AED" stroke-width="1.5"/>
+  <text x="470" y="322" font-size="12" font-weight="700" fill="#0F172A">bmad hub</text>
+  <text x="470" y="340" font-size="10" fill="#475569">setup · help · status</text>
+
+  <rect x="56" y="392" width="582" height="88" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5"/>
+  <text x="347" y="424" font-size="12" font-weight="700" fill="#0F172A" text-anchor="middle">Workflows — structured multi-agent discussions</text>
+  <text x="347" y="444" font-size="10" fill="#475569" text-anchor="middle">right-sized planning · durable context carried forward · human stays in control</text>
+
+  <!-- right rail -->
+  <path d="M706 120 h182 a4 4 0 0 1 4 4 v96 a4 4 0 0 1 -4 4 h-182 a4 4 0 0 1 -4 -4 v-96 a4 4 0 0 1 4 -4 z" fill="#334155"/>
+  <ellipse cx="797" cy="120" rx="93" ry="12" fill="#475569"/>
+  <text x="797" y="172" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">Decision Context Store</text>
+  <text x="797" y="192" font-size="10" fill="#E2E8F0" text-anchor="middle">specs · architecture · UX · decisions</text>
+
+  <path d="M672 160 h22" stroke="#94A3B8" stroke-width="2"/>
+  <path d="M700 160 l-7 -4 v8 z" fill="#94A3B8"/>
+
+  <rect x="702" y="256" width="190" height="70" rx="10" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+  <text x="797" y="284" font-size="12" font-weight="700" fill="#0F172A" text-anchor="middle">Learn</text>
+  <text x="797" y="304" font-size="10" fill="#475569" text-anchor="middle">retrospective insights</text>
+  <path d="M702 291 h-30" stroke="#F59E0B" stroke-width="2"/>
+  <path d="M666 291 l7 -4 v8 z" fill="#F59E0B"/>
+
+  <rect x="702" y="356" width="190" height="70" rx="10" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+  <text x="797" y="384" font-size="12" font-weight="700" fill="#0F172A" text-anchor="middle">Review Gate</text>
+  <text x="797" y="404" font-size="10" fill="#475569" text-anchor="middle">checklists · specs match</text>
+  <path d="M702 391 h-30" stroke="#2563EB" stroke-width="2"/>
+  <path d="M666 391 l7 -4 v8 z" fill="#2563EB"/>
+
+  <rect x="702" y="452" width="190" height="56" rx="10" fill="#FFFFFF" stroke="#334155" stroke-width="2"/>
+  <text x="797" y="476" font-size="12" font-weight="700" fill="#0F172A" text-anchor="middle">Project Repo</text>
+  <text x="797" y="494" font-size="10" fill="#475569" text-anchor="middle">story · pull request</text>
+  <path d="M702 480 h-30" stroke="#334155" stroke-width="2"/>
+  <path d="M666 480 l7 -4 v8 z" fill="#334155"/>
+
+  <!-- bottom strip -->
+  <text x="40" y="538" font-size="11" fill="#64748B">Runs on Windows · PowerShell · Node.js 20.12+ · Python 3.10+ · uv</text>
+</svg>
